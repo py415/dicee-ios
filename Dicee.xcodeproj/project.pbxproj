@@ -54,14 +54,38 @@
 		7226F4E722C67D1D0060B78F /* Dicee */ = {
 			isa = PBXGroup;
 			children = (
-				7226F4E822C67D1D0060B78F /* AppDelegate.swift */,
-				7226F4EA22C67D1D0060B78F /* ViewController.swift */,
-				7226F4EC22C67D1D0060B78F /* Main.storyboard */,
 				7226F4EF22C67D1E0060B78F /* Assets.xcassets */,
-				7226F4F122C67D1E0060B78F /* LaunchScreen.storyboard */,
-				7226F4F422C67D1E0060B78F /* Info.plist */,
+				7226F4FC22C67D380060B78F /* Storyboards */,
+				7226F4FB22C67D320060B78F /* Supporting Files */,
+				7226F4FA22C67D240060B78F /* View Controllers */,
 			);
 			path = Dicee;
+			sourceTree = "<group>";
+		};
+		7226F4FA22C67D240060B78F /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				7226F4EA22C67D1D0060B78F /* ViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		7226F4FB22C67D320060B78F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7226F4E822C67D1D0060B78F /* AppDelegate.swift */,
+				7226F4F422C67D1E0060B78F /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7226F4FC22C67D380060B78F /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				7226F4EC22C67D1D0060B78F /* Main.storyboard */,
+				7226F4F122C67D1E0060B78F /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -284,7 +308,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8E7FB8SA95;
-				INFOPLIST_FILE = Dicee/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Dicee/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +326,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8E7FB8SA95;
-				INFOPLIST_FILE = Dicee/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Dicee/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
