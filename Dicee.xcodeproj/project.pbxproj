@@ -56,8 +56,8 @@
 			children = (
 				7226F4EF22C67D1E0060B78F /* Assets.xcassets */,
 				7226F4FC22C67D380060B78F /* Storyboards */,
-				7226F4FB22C67D320060B78F /* Supporting Files */,
 				7226F4FA22C67D240060B78F /* View Controllers */,
+				7226F4FB22C67D320060B78F /* Supporting Files */,
 			);
 			path = Dicee;
 			sourceTree = "<group>";
