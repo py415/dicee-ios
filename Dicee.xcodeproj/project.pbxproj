@@ -54,20 +54,20 @@
 		7226F4E722C67D1D0060B78F /* Dicee */ = {
 			isa = PBXGroup;
 			children = (
-				7226F4EF22C67D1E0060B78F /* Assets.xcassets */,
-				7226F4FC22C67D380060B78F /* Storyboards */,
-				7226F4FA22C67D240060B78F /* View Controllers */,
+				7226F4FA22C67D240060B78F /* Controller */,
+				72787D4A22C876C100C385C0 /* Model */,
 				7226F4FB22C67D320060B78F /* Supporting Files */,
+				7226F4FC22C67D380060B78F /* View */,
 			);
 			path = Dicee;
 			sourceTree = "<group>";
 		};
-		7226F4FA22C67D240060B78F /* View Controllers */ = {
+		7226F4FA22C67D240060B78F /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 				7226F4EA22C67D1D0060B78F /* ViewController.swift */,
 			);
-			path = "View Controllers";
+			path = Controller;
 			sourceTree = "<group>";
 		};
 		7226F4FB22C67D320060B78F /* Supporting Files */ = {
@@ -79,13 +79,21 @@
 			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7226F4FC22C67D380060B78F /* Storyboards */ = {
+		7226F4FC22C67D380060B78F /* View */ = {
 			isa = PBXGroup;
 			children = (
+				7226F4EF22C67D1E0060B78F /* Assets.xcassets */,
 				7226F4EC22C67D1D0060B78F /* Main.storyboard */,
 				7226F4F122C67D1E0060B78F /* LaunchScreen.storyboard */,
 			);
-			path = Storyboards;
+			path = View;
+			sourceTree = "<group>";
+		};
+		72787D4A22C876C100C385C0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
