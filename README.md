@@ -14,13 +14,13 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 ## Product Spec
 ### User Stories
 
-- [X] User can see an image of a coal on the center of the app.
+- [X] User can click the "Roll" button to randomize the dice images.
 
 ## App Walkthrough GIF
 
 Here's a image preview of how the app looks:
 
-<img src="ADD_IMGUR_HERE" width=250><br>
+<img src="https://imgur.com/g7CDBOi.gif" width=250><br>
 
 ## Credits
 
