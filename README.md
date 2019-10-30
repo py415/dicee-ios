@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [App Walkthrough GIF](#App-Walkthrough-GIF)
+3. [App Walkthrough](#App-Walkthrough)
 4. [Credits](#Credits)
 
 ## Overview
@@ -17,9 +17,9 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 - [X] User can click the "Roll" button to randomize the dice images.
 - [X] User can shake their phone to roll the die.
 
-## App Walkthrough GIF
+## App Walkthrough
 
-Here's a image preview of how the app looks:
+Here's a GIF of how the app works:
 
 <img src="https://imgur.com/g7CDBOi.gif" width=250><br>
 
