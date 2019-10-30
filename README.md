@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [App Preview](#App-Preview)
+3. [App Walkthrough GIF](#App-Walkthrough-GIF)
 4. [Credits](#Credits)
 
 ## Overview
