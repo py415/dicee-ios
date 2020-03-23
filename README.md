@@ -14,14 +14,14 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 ## Product Spec
 ### User Stories
 
-- [X] User can click the "Roll" button to randomize the dice images.
-- [X] User can shake their phone to roll the die.
+- [X] User shall be able to click the "Roll" button to randomize the dice images.
+- [X] User shall be able to shake their phone to roll the die.
 
 ## App Walkthrough
 
 Here's a GIF of how the app works:
 
-<img src="https://imgur.com/g7CDBOi.gif" width=250><br>
+<img src="https://i.imgur.com/pMFe07x.gif" width=250><br>
 
 ## Credits
 
