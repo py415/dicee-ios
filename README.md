@@ -21,8 +21,8 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/81463276-37b08700-916d-11ea-818d-958e88e7dd52.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/35745973/81463276-37b08700-916d-11ea-818d-958e88e7dd52.gif" width=250>
 
 ## Credits
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
