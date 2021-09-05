@@ -21,7 +21,7 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 
 Here's a GIF of how the app works:
 
-<img src="https://github.com/py415/app-resources/blob/master/ios/ios-dicee.gif" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/ios/ios-dicee.gif" width="250" />
 
 ## Credits
 
